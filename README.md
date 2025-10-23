@@ -8,6 +8,9 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 🎥 **Oglądaj kurs na YouTube:**  
 👉 [PotegaIT – Python od podstaw](https://youtube.com/@PotegaIT)
 
+🌐 **Strona / PotegaIT:**  
+👉 [https://potegait.com](https://potegait.com)
+
 ---
 
 ## 📚 Plan kursu
