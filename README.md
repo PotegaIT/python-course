@@ -1,15 +1,12 @@
-# 🐍 Python od podstaw z praktykiem / Python from Scratch with a Practitioner
+# 🐍 Kurs Pythona Dla Początkujących  / Python Course for Beginners
 
 ## 🇵🇱 Wersja polska
 
-**Python od podstaw z praktykiem – od zera do realnych projektów**  
+**Kurs Pythona Dla Początkujących – od zera do realnych projektów**  
 Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ćwiczenia i materiały do każdej lekcji z kursu na YouTube.
 
 🎥 **Oglądaj kurs na YouTube:**  
 👉 [PotegaIT – Python od podstaw](https://youtube.com/@PotegaIT)
-
-🌐 **Strona kursu / PotegaIT:**  
-👉 [https://potegait.com](https://potegait.com)
 
 ---
 
@@ -69,7 +66,7 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 
 ## 🇬🇧 English version
 
-**Python from Scratch with a Practitioner – from zero to real projects**  
+**Python Course for Beginners – from zero to real projects**  
 Official repository of the **PotegaIT** course.  
 Here you will find all sample code, exercises, and materials for each lesson from the YouTube course.
 
@@ -134,4 +131,20 @@ Here you will find all sample code, exercises, and materials for each lesson fro
 30. Console mini-application with classes (e.g., "Home Budget Manager")  
 
    git clone https://github.com/PotegaIT/python-course.git
+
+## 🧾 License / Licencja
+
+MIT License – wolno używać, modyfikować i udostępniać w celach edukacyjnych.  
+MIT License – free to use, modify, and share for learning purposes.
+
+## 🌐 About PotegaIT / O PotegaIT
+
+**PotegaIT** tworzy kursy i materiały edukacyjne dla programistów.  
+Misja: uczyć praktycznie, jasno i przyjemnie.
+
+- YouTube: [@PotegaIT](https://youtube.com/@PotegaIT)  
+- Website: [https://potegait.com](https://potegait.com)  
+- Contact: github@potegait.com
+
+
 
