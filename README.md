@@ -1,14 +1,20 @@
-# 🐍 Kurs Pythona Dla Początkujących  / Python Course for Beginners
+# 🐍 Kurs Pythona dla Początkujących  / Python for Beginners
+
+Ucz się Pythona od podstaw – darmowy kurs wideo na YouTube z pełnym kodem źródłowym i projektami.
+
+Learn Python from scratch – a free video course on YouTube with complete source code and projects.
+
+
 
 ## 🇵🇱 Wersja polska
 
-**Kurs Pythona Dla Początkujących – od zera do realnych projektów**  
+**Kurs Pythona dla Początkujących – od zera do realnych projektów**  
 Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ćwiczenia i materiały do każdej lekcji z kursu na YouTube.
 
 🎥 **Oglądaj kurs na YouTube:**  
 👉 [PotegaIT – Python od podstaw](https://youtube.com/@PotegaIT)
 
-🌐 **Strona / PotegaIT:**  
+🌐 **Strona PotegaIT:**  
 👉 [https://potegait.com](https://potegait.com)
 
 ---
@@ -67,13 +73,21 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 
 ---
 
+## 💻 Jak korzystać z tego repozytorium / How to Use
+
+Aby pobrać wszystkie materiały lokalnie:
+```bash
+git clone https://github.com/PotegaIT/python-course.git
+```
+---
+
 ## 🇬🇧 English version
 
 **Python Course for Beginners – from zero to real projects**  
 Official repository of the **PotegaIT** course.  
-Here you will find all sample code, exercises, and materials for each lesson from the YouTube course.
+Here you'll find all sample code, exercises, and materials for each lesson from the YouTube course.
 
-🎥 **Watch the course on YouTube:**  
+📺 **Watch the course on YouTube:**  
 👉 [PotegaIT – Python from Scratch](https://youtube.com/@PotegaIT)
 
 🌐 **Website / PotegaIT:**  
@@ -86,7 +100,7 @@ Here you will find all sample code, exercises, and materials for each lesson fro
 ### Module 1: Introduction to Python
 1. What is Python and why learn it?  
 2. Installation and environment setup (Windows/Linux/macOS)  
-3. Your first program – classic "Hello, World"  
+3. Your first program – the classic "Hello, World"  
 4. How interpreters, IDEs, and terminals work – practical intro  
 
 ### Module 2: Basics of Syntax
@@ -107,12 +121,12 @@ Here you will find all sample code, exercises, and materials for each lesson fro
 
 ### Module 5: Functions
 15. Creating and calling functions, arguments, return values  
-16. Default function values  
+16. Default function parameters  
 17. Debugging and reading Python errors  
 
 ### Module 6: Working with Files
 18. Reading and writing text files  
-19. Working with directories and filesystem (os, pathlib)  
+19. Working with directories and the filesystem (os, pathlib)  
 20. Exception handling – try, except, finally  
 
 ### Module 7: Modules and Libraries
@@ -133,21 +147,28 @@ Here you will find all sample code, exercises, and materials for each lesson fro
 ### Module 10: Practical Project 2
 30. Console mini-application with classes (e.g., "Home Budget Manager")  
 
-   git clone https://github.com/PotegaIT/python-course.git
+---
 
-## 🧾 License / Licencja
+## 🧾 Licencja / License 
 
-MIT License – wolno używać, modyfikować i udostępniać w celach edukacyjnych.  
-MIT License – free to use, modify, and share for learning purposes.
+MIT Licencja – wolno używać, modyfikować i udostępniać w celach edukacyjnych.  
+MIT License – free to use, modify, and share for educational purposes.
 
-## 🌐 About PotegaIT / O PotegaIT
+## 🌐 O PotegaIT / About PotegaIT
 
-**PotegaIT** tworzy kursy i materiały edukacyjne dla programistów.  
+**PotegaIT** tworzy kursy i materiały edukacyjne dla programistów. / creates courses and educational materials for programmers.
+
+
 Misja: uczyć praktycznie, jasno i przyjemnie.
+Mission: to teach in a practical, clear, and enjoyable way.
 
-- YouTube: [@PotegaIT](https://youtube.com/@PotegaIT)  
-- Website: [https://potegait.com](https://potegait.com)  
-- Contact: github@potegait.com
+
+PotegaIT to inicjatywa edukacyjna tworzona przez pasjonata programowania, której celem jest nauka w praktyczny, prosty i zrozumiały sposób.
+PotegaIT is an educational initiative created by a programming enthusiast – teaching clearly, practically, and with passion.
+
+📺 YouTube: [@PotegaIT](https://youtube.com/@PotegaIT)  
+🌍 Strona / Website: [https://potegait.com](https://potegait.com)  
+📧 Kontakt / Contact: github@potegait.com
 
 
 
