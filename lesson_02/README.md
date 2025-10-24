@@ -1,3 +1,4 @@
+## 🇵🇱 Wersja polska
 # Lekcja 2: Instalacja i konfiguracja środowiska (Windows/Linux/macOS)
 
 ## Wprowadzenie:
@@ -71,7 +72,8 @@ i uruchamiamy go.
 
 Gratulacje! Udało Ci się skonfigurować swoje środowisko pracy. Teraz Twój komputer jest gotowy do programowania w Pythonie. Umiesz zainstalować Pythona, wiesz jak sprawdzić wersję, wybrać odpowiedni edytor i uruchomić swój pierwszy plik .py. To fundament, na którym będziemy budować całą resztę. Jesteś gotowy na prawdziwe programowanie!
 
-
+---
+## 🇬🇧 English version
 # Lesson 2: Installing and Setting Up the Environment (Windows/Linux/macOS)
 
 ## Introduction
