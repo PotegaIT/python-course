@@ -1,3 +1,5 @@
+## 🇵🇱 Wersja polska
+
 # Lekcja 01 – Czym jest Python?
 
 Witaj w pierwszej lekcji naszego kursu Pythona!  
@@ -43,7 +45,7 @@ Zobacz plik `example_01.py`
 Gratulacje! Teraz znasz podstawy. W następnej lekcji zajmiemy się **konfiguracją środowiska Pythona**.
 
 ---
-
+## 🇬🇧 English version
 # Lesson 01 – What is Python?
 
 Welcome to the first lesson of our Python course!
