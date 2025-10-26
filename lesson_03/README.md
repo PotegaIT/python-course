@@ -19,7 +19,7 @@ To trochę jak odpalenie silnika w nowym samochodzie – jeszcze nigdzie nie jed
 * Utwórz nowy plik o nazwie hello.py.
 
 * Wklej do niego poniższy kod:
-```sh
+```python
 print("Hello, World!")
 ```
 * Zapisz plik.
@@ -39,13 +39,13 @@ Jeśli wolisz użyć terminala, przejdź do katalogu z plikiem i wpisz:
 ### Zmieńmy komunikat
 
 Spróbujmy teraz zmodyfikować nasz program i wypisać coś bardziej osobistego:
-```sh
+```python
 print("Cześć, programowanie jest super!")
 print("To mój pierwszy program w Pythonie.")
 ```
 Po uruchomieniu zobaczysz:
 
-`Cześć, programowanie jest super!
+`Cześć, programowanie jest super!  
 To mój pierwszy program w Pythonie.`
 
 Każda linia z funkcją print() wyświetla tekst osobno – dokładnie w tej kolejności, w jakiej została napisana. Dzięki temu możesz tworzyć komunikaty powitalne, podpowiedzi, wyniki obliczeń, a nawet proste interfejsy tekstowe.
@@ -89,7 +89,7 @@ It’s a bit like starting the engine of a new car — you’re not driving anyw
 * Open your code editor (for example, Thonny, VS Code, or any other).  
 * Create a new file named **hello.py**.  
 * Paste the following code into it:
-```sh
+```python
 print("Hello, World!")
 ```
 * Save the file.
@@ -115,7 +115,7 @@ print("This is my first Python program.")
 ```
 After running the program, you’ll see:
 
-`Hi, programming is awesome!
+`Hi, programming is awesome!  
 This is my first Python program.`
 
 Each line with the `print()` function displays text separately — exactly in the order it was written.  
