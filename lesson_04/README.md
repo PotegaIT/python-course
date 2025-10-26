@@ -38,14 +38,14 @@ Jeśli w pliku napiszesz `print("Hello")`, interpreter od razu wykona tę linijk
 * Jeśli napotka błąd, zatrzymuje wykonanie i pokazuje komunikat o błędzie.
 
 Przykład pliku **hello.py**:
-```sh
+```python
 print("Linia 1")
 print("Linia 2")
 print("Linia 3")
 ```
 
 ### Uruchomienie w terminalu:
-```sh
+```python
 python hello.py
 ```
 Interpreter przeczyta i wykona każdą linijkę po kolei.
@@ -114,13 +114,13 @@ If you write `print("Hello")` in a file, the interpreter executes that line righ
 * If it encounters an error, it stops execution and shows an error message
 
 Example **hello.py** file:
-```sh
+```python
 print("Line 1")
 print("Line 2")
 print("Line 3")
 ```
 ### Running in the terminal:
-```sh
+```python
 python hello.py
 ```
 The interpreter reads and executes each line in order.
