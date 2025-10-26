@@ -45,7 +45,7 @@ print("To mój pierwszy program w Pythonie.")
 ```
 Po uruchomieniu zobaczysz:
 
-`Cześć, programowanie jest super!  
+`Cześć, programowanie jest super!
 To mój pierwszy program w Pythonie.`
 
 Każda linia z funkcją print() wyświetla tekst osobno – dokładnie w tej kolejności, w jakiej została napisana. Dzięki temu możesz tworzyć komunikaty powitalne, podpowiedzi, wyniki obliczeń, a nawet proste interfejsy tekstowe.
@@ -115,7 +115,7 @@ print("This is my first Python program.")
 ```
 After running the program, you’ll see:
 
-`Hi, programming is awesome!  
+`Hi, programming is awesome!
 This is my first Python program.`
 
 Each line with the `print()` function displays text separately — exactly in the order it was written.  
