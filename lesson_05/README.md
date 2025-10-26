@@ -9,7 +9,7 @@ W tej lekcji poznasz podstawy zmiennych w Pythonie oraz cztery najważniejsze ty
 Zmienna to nazwa, pod którą przechowywana jest wartość. Nadajemy jej nazwę, używamy znaku **równości =** i przypisujemy wartość. Typ danych określa rodzaj wartości przechowywanej w zmiennej.
 
 #### Przykłady:
-```sh
+```python
 name = "Greg" # string – tekst
 age = 30 # int – liczba całkowita
 height = 1.75 # float – liczba zmiennoprzecinkowa
@@ -38,7 +38,7 @@ Stosowane do sprawdzania warunków.
 Python posiada wbudowaną funkcję **type()**, która pozwala sprawdzić typ zmiennej. 
 
 #### Przykład:
-```sh
+```python
 city = "Oslo"
 year = 2025
 temperature = 4.5
@@ -55,7 +55,7 @@ Dzięki **type()** można sprawdzić, jakiego typu jest dana zmienna i unikać b
 
 Przykładowy program tworzący zmienne różnych typów i wyświetlający je:
 
-```sh
+```python
 name = "Anna"
 age = 25
 height = 1.68
