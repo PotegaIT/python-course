@@ -150,6 +150,8 @@ Dziś nauczyłeś się:
 
 To fundament każdego programu — dzięki temu komputer potrafi analizować dane i podejmować decyzje.
 
+© 2025 PotęgaIT – Kurs Python dla początkujących
+
 ---
 
 ## 🇬🇧 English Version
@@ -300,3 +302,5 @@ Today you learned how to:
 * and use logical operators, which allow you to combine conditions.
 
 This is the foundation of every program — it enables the computer to **analyze data and make decisions**.
+
+© 2025 PotegaIT – Python Course for Beginners
