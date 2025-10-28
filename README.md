@@ -79,6 +79,7 @@ Aby pobrać wszystkie materiały lokalnie:
 ```bash
 git clone https://github.com/PotegaIT/python-course.git
 ```
+
 ---
 
 ## 🇬🇧 English version
@@ -170,5 +171,4 @@ PotegaIT is an educational initiative created by a programming enthusiast – te
 🌍 Strona / Website: [https://potegait.com](https://potegait.com)  
 📧 Kontakt / Contact: github@potegait.com
 
-
-
+© 2025 PotegaIT – Kurs Python dla początkujących / Python Course for Beginners
