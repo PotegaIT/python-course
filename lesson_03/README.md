@@ -68,6 +68,8 @@ Tak zaczynał każdy programista.
 
 Poznamy kolejne podstawowe elementy języka Python i zaczniemy rozumieć, jak komputer "myśli" podczas wykonywania kodu.
 
+© 2025 PotęgaIT – Kurs Python dla początkujących
+
 ---
 
 ## 🇬🇧 English Version
@@ -139,3 +141,4 @@ This is how every programmer started.
 
 We’ll learn more basic Python elements and begin to understand how a computer “thinks” while executing code.
 
+© 2025 PotegaIT – Python Course for Beginners
