@@ -73,6 +73,8 @@ To już kolejna lekcja, a Ty potrafisz tworzyć programy, które rozmawiają z u
 Znasz funkcję input() i potrafisz używać f-stringów, czyli wygodnego sposobu na łączenie tekstu i zmiennych.
 Tworzysz teraz programy, które nie tylko „coś robią”, ale też wchodzą w interakcję z użytkownikiem. Brawo!
 
+© 2025 PotegaIT – Kurs Python dla początkujących
+
 ---
 
 ## 🇬🇧 English Version
@@ -147,4 +149,6 @@ print(f"Hello, {name}! Next year you will be {int(age) + 1} years old.")
 This is another lesson, and now you can create programs that interact with the user and respond to input.
 You know how to use input() and f-strings, a convenient way to combine text and variables.
 You are now creating programs that not only "do something," but also interact with the user. Well done!
+
+© 2025 PotegaIT – Python Course for Beginners
 
