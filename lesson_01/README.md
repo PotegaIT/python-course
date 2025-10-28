@@ -44,7 +44,10 @@ Zobacz plik `example_01.py`
 
 Gratulacje! Teraz znasz podstawy. W następnej lekcji zajmiemy się **konfiguracją środowiska Pythona**.
 
+© 2025 PotęgaIT – Kurs Python dla początkujących
+
 ---
+
 ## 🇬🇧 English version
 # Lesson 01 – What is Python?
 
@@ -89,3 +92,5 @@ See `example_01.py`
 ## 6. Summary
 
 Congrats! You now know the basics. Next lesson: setting up your Python environment.
+
+© 2025 PotegaIT – Python Course for Beginners
