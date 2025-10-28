@@ -71,6 +71,8 @@ Możesz też używać prostych edytorów tekstu (np. [Notepad++](https://notepad
 Teraz wiesz, jak działa interpreter Pythona, potrafisz uruchamiać programy w terminalu i korzystać z profesjonalnego środowiska IDE.
 To podstawowe umiejętności, które pozwalają rozwijać projekty i świadomie korzystać z narzędzi programistycznych.
 
+© 2025 PotęgaIT – Kurs Python dla początkujących
+
 ---
 
 ## 🇬🇧 English Version
@@ -142,3 +144,5 @@ You can also use simple text editors [Notepad++](https://notepad-plus-plus.org/)
 
 Now you know how the Python interpreter works, how to run programs in the terminal, and how to use a professional IDE.
 These are essential skills that allow you to develop projects and use programming tools effectively.
+
+© 2025 PotegaIT – Python Course for Beginners
