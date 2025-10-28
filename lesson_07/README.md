@@ -73,7 +73,7 @@ To już kolejna lekcja, a Ty potrafisz tworzyć programy, które rozmawiają z u
 Znasz funkcję input() i potrafisz używać f-stringów, czyli wygodnego sposobu na łączenie tekstu i zmiennych.
 Tworzysz teraz programy, które nie tylko „coś robią”, ale też wchodzą w interakcję z użytkownikiem. Brawo!
 
-© 2025 PotegaIT – Kurs Python dla początkujących
+© 2025 PotęgaIT – Kurs Python dla początkujących
 
 ---
 
