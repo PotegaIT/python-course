@@ -38,9 +38,9 @@ na kilka linii.
 
 ### 💡 Wskazówki:
 
-* Komentarze zaczynamy od znaku #
+* Komentarze zaczynamy od znaku `#`
 
-* Dłuższe opisy można umieszczać w potrójnych cudzysłowach (""" ... """)
+* Dłuższe opisy można umieszczać w potrójnych cudzysłowach `(""" ... """)`
 
 * Komentarze nie wpływają na działanie programu
 
@@ -137,9 +137,9 @@ that spans multiple lines.
 
 ### 💡 Tips:
 
-* Comments start with the # symbol
+* Comments start with the `#` symbol
 
-* Longer descriptions can be written using triple quotes (""" ... """)
+* Longer descriptions can be written using triple quotes `(""" ... """)`
 
 * Comments do not affect how the program works
 
