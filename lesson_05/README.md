@@ -77,7 +77,8 @@ Poznałeś cztery podstawowe typy w Pythonie:
 
 Dzięki nim możesz przechowywać tekst, liczby i informacje logiczne. 
 Te umiejętności są fundamentem każdego programu i będą wykorzystywane w kolejnych lekcjach.
-Podsumowanie
+
+© 2025 PotęgaIT – Kurs Python dla początkujących
 
 ---
 
@@ -160,3 +161,4 @@ You got to know the four basic types in Python:
 With these, you can store text, numbers, and logical information.  
 These skills form the foundation of every program and will be used in the upcoming lessons.
 
+© 2025 PotegaIT – Python Course for Beginners
