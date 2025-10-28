@@ -185,5 +185,5 @@ print(f"Hello, {name}!")
 > Remember: good code is not just code that works, but code that is easy to read.
 > This way, others (or even you in the future) will be able to understand it quickly.
 
-© 2025 PotęgaIT – Python Course for Beginners
+© 2025 PotegaIT – Python Course for Beginners
 
