@@ -72,7 +72,10 @@ i uruchamiamy go.
 
 Gratulacje! Udało Ci się skonfigurować swoje środowisko pracy. Teraz Twój komputer jest gotowy do programowania w Pythonie. Umiesz zainstalować Pythona, wiesz jak sprawdzić wersję, wybrać odpowiedni edytor i uruchomić swój pierwszy plik .py. To fundament, na którym będziemy budować całą resztę. Jesteś gotowy na prawdziwe programowanie!
 
+© 2025 PotęgaIT – Kurs Python dla początkujących
+
 ---
+
 ## 🇬🇧 English version
 # Lesson 2: Installing and Setting Up the Environment (Windows/Linux/macOS)
 
@@ -144,4 +147,6 @@ and run it.
 ## Summary
 
 Congratulations! You have successfully set up your working environment. Now your computer is ready for Python programming. You know how to install Python, check its version, choose a suitable editor, and run your first .py file. This is the foundation on which we will build the rest of the course. You are ready for real programming!
+
+© 2025 PotegaIT – Python Course for Beginners
 
