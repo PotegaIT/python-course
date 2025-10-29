@@ -184,3 +184,183 @@ Dzięki nim możesz tworzyć bardziej precyzyjne i efektywne rozwiązania.
 
 ---
 
+## 🇬🇧 English Version
+
+# 🧠 Lesson 13 – Controlling Loops: break and continue
+
+---
+
+## 🎯 Lesson Goal
+
+In this lesson, you will learn how to control the flow of loops more precisely.
+You will get to know two very useful Python keywords – `brea`k and `continue`.
+
+With them, you can:
+
+* stop a loop at any point (`break`),
+* skip one iteration and continue (`continue`).
+
+These are powerful tools that give you greater control over your program’s execution.
+
+## 📝 1. `break` – stopping a loop
+
+The `break` statement acts like an **emergency stop button**.
+When Python encounters it, the loop **immediately ends**, even if the loop condition is still true.
+We use it when there’s **no reason to continue** – for example, when we found what we were looking for.
+
+```python
+for number in range(10):
+    if number == 5:
+        print("Found 5! Stopping.")
+        break
+    print("Checking:", number)
+```
+
+### 🔍 Explanation:
+
+* The program checks numbers from 0 to 9.
+* When it encounters 5 – the loop stops.
+* Numbers after 5 are not processed.
+
+---
+
+## 📝 2. `continue` – skipping an iteration
+
+The `continue` statement works differently from `break`.
+It **does not stop the loop**, but **skips the current iteration** and moves to the next one.
+
+It’s like saying:
+
+> “I’m not interested in this one – move on!”
+
+```python
+numbers = [3, -1, 7, -4, 5]
+
+for number in numbers:
+    if number < 0:
+        continue
+    print("Positive number:", number)
+```
+
+### 🔍 Explanation:
+
+* The program skips negative numbers (`continue`).
+* For positive numbers, it executes `print()`.
+* This makes the loop selective – it processes only the values we care about.
+
+---
+
+## 🧮 3. `break` and `continue` in `while` loops
+
+Both statements also work in `while` loops.
+This is especially useful when the loop depends on **user input** or **changing conditions**.
+
+```python
+i = 0
+while i < 10:
+    i += 1
+    if i == 3:
+        continue
+    if i == 7:
+        break
+    print(i)
+```
+
+### 🔍 Explanation:
+
+* The variable `i` increases from 1 to 10.
+* When it reaches 3 – `continue` skips printing.
+* When it reaches 7 – `break` stops the loop.
+* Result: prints 1, 2, 4, 5, 6.
+
+---
+
+## 🧩 4. Mini project – user number filter
+> Create a program that reads numbers from the user and processes them depending on their value.
+
+```python
+while True:
+    number = int(input("Enter a number: "))
+
+    if number == 0:
+        print("Finished – you entered 0.")
+        break
+
+    if number == 100:
+        print("Special number 100 – stopping the program.")
+        break
+
+    if number < 0:
+        print("Negative number – skipping.")
+        continue
+
+    print("Number:", number)
+```
+
+### 🔍 Explanation:
+
+* The loop runs indefinitely ('while True').
+* 'break' stops the program for 0 or 100.
+* 'continue' skips negative numbers.
+* Only positive numbers are printed.
+
+## 💡 Extended version – counter and sum
+
+We can also add a counter and sum of positive numbers to display a summary at the end:
+
+```python
+count = 0
+total = 0
+
+while True:
+    number = int(input("Enter a number: "))
+
+    if number == 0:
+        print("Finished – you entered 0.")
+        break
+
+    if number == 100:
+        print("Special number 100 – stopping the program.")
+        break
+
+    if number < 0:
+        print("Negative number – skipping.")
+        continue
+
+    count += 1
+    total += number
+    print("Number:", number)
+
+print(f"\nYou entered {count} positive numbers. Their sum is {total}.")
+```
+
+### 🔍 Explanation:
+
+* `count` tracks the number of positive numbers.
+* `total` sums their values.
+* `break` ends the program.
+* `continue` skips unwanted numbers.
+
+### 🧠 Takeaway
+
+This is already a **practical program**!  
+It combines:
+
+* `while` loops,
+* `break` and `continue`,
+* user input,
+* conditions and arithmetic operations.
+
+These are core programming foundations, making your programs flexible and intelligent.
+
+---
+
+## 🎉 Lesson 13 Summary
+
+* `break` – stops a loop at any moment.
+* `continue` – skips one iteration and continues.
+* Both statements give you more control over program flow.
+
+Using them, you can write more precise and efficient solutions.
+
+© 2025 PotegaIT – Python for Beginners
