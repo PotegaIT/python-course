@@ -104,12 +104,16 @@ Here you'll find all sample code, exercises, and materials for each lesson from 
 
 ### Module 1: Introduction to Python
 1. What is Python and why learn it?  
+🎥 [Watch the lesson on YouTube ↗](https://youtu.be/zaZLseIaOHI) | 📂 [Source code](lesson_01/)
 2. Installation and environment setup (Windows/Linux/macOS)  
+🎥 [Watch the video ↗](https://youtu.be/5yYJHH3USPI) | 📂 [Materials](lesson_02/)
 3. Your first program – the classic "Hello, World"  
-4. How interpreters, IDEs, and terminals work – practical intro  
+🎥 [Watch on YouTube ↗](https://youtu.be/Fos05g9jXig) | 📂 [Source code](lesson_03/)
+4. How interpreters, IDEs, and terminals work – practical intro   
+🎥 [Video on YouTube ↗](https://youtu.be/NMsCMMmy8AI) | 📂 [Materials](lesson_04/)
 
 ### Module 2: Basics of Syntax
-5. Variables and data types (string, int, float, bool)  
+5. Variables and data types (string, int, float, bool)
 6. Arithmetic and logical operators  
 7. Introduction to f-strings and input()  
 8. Comments and best practices  
