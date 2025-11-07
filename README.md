@@ -23,10 +23,13 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 
 ### Moduł 1: Wprowadzenie do Pythona
 1. Czym jest Python? Dlaczego warto się go uczyć?  
-🎥 <a href="https://youtu.be/zaZLseIaOHI" target="_blank">Obejrzyj lekcję na YouTube</a> | 📂 [Kod źródłowy](lesson_01/)
+🎥 [Obejrzyj lekcję na YouTube ↗](https://youtu.be/zaZLseIaOHI) | 📂 [Kod źródłowy](lesson_01/)
 2. Instalacja i konfiguracja środowiska (Windows/Linux/macOS)  
+🎥 [Zobacz film ↗](https://youtu.be/5yYJHH3USPI) | 📂 [Materiały](lesson_02/)
 3. Twój pierwszy program – klasyczne "Hello, World"  
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/Fos05g9jXig) | 📂 [Kod źródłowy](lesson_03/)
 4. Jak działają interpretery, IDE, terminale – praktyczne wprowadzenie  
+🎥 [Film na YouTube ↗](https://youtu.be/NMsCMMmy8AI) | 📂 [Materiały](lesson_04/)
 
 ### Moduł 2: Podstawy składni
 5. Zmienne i typy danych (string, int, float, bool)  
