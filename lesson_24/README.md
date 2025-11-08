@@ -161,7 +161,7 @@ Stwórz kalkulator, który umożliwia wykonanie kilku operacji po kolei na jedny
 
 Na przykład:
 
-```python
+```yaml
 Wynik: 5
 Wybierz kolejną operację (*, /, +, -): *
 Podaj kolejną liczbę: 3
@@ -185,7 +185,7 @@ W tej lekcji nauczyłeś się:
 To jedno z najważniejszych ćwiczeń praktycznych — pokazuje, jak połączyć wiele podstawowych elementów Pythona w jeden działający program.
 Taki kalkulator to klasyczny przykład aplikacji CLI, czyli programu, z którym użytkownik wchodzi w interakcję za pomocą tekstu.
 
-© 2025 PotegaIT – Kurs Python dla początkujących
+© 2025 PotęgaIT – Kurs Python dla początkujących
 
 ---
 
@@ -238,10 +238,27 @@ elif operation == "-":
     print("Subtraction result:", result)
 else:
     print("Unknown operation. Use + or -.")
-# Text Calculator - Addition and Subtraction
+```
+
+### 🗣️ Explanation:
+
+The program asks the user which operation to perform and then requests two numbers.
+Depending on whether the user chose `+` or `-`, the program performs the calculation and displays the result.
+If the user enters any other symbol, it shows an error message.
+
+---
+
+## 📝 2. Project 2 – Adding Multiplication and Division
+
+Now, we’ll extend our calculator to also handle multiplication (`*`) and division (`/`).
+
+### Code:
+
+```python
+# Text Calculator - Addition, Subtraction, Multiplication, and Division
 
 print("Welcome to the text calculator!")
-print("Choose an operation: + (addition), - (subtraction)")
+print("Choose an operation: + (addition), - (subtraction), * (multiplication), / (division)")
 
 # Get operation from the user
 operation = input("Enter operation: ")
@@ -250,12 +267,107 @@ operation = input("Enter operation: ")
 number1 = float(input("Enter the first number: "))
 number2 = float(input("Enter the second number: "))
 
-# Perform calculation based on the chosen operation
+# Perform calculation
 if operation == "+":
     result = number1 + number2
     print("Addition result:", result)
 elif operation == "-":
     result = number1 - number2
     print("Subtraction result:", result)
+elif operation == "*":
+    result = number1 * number2
+    print("Multiplication result:", result)
+elif operation == "/":
+    if number2 != 0:
+        result = number1 / number2
+        print("Division result:", result)
+    else:
+        print("Error: cannot divide by zero!")
 else:
-    print("Unknown operation. Use + or -.")```
+    print("Unknown operation. Use +, -, * or /.")
+```
+
+### 🗣️ Explanation:
+
+We added two new operations.
+Notice the **division by zero check** — this prevents the program from crashing and ensures correct behavior.
+
+### Code:
+
+```python
+# Text Calculator with Loop and Repeated Operations
+
+while True:
+    print("\nWelcome to the text calculator!")
+    print("Choose an operation: + (addition), - (subtraction), * (multiplication), / (division)")
+
+    # Get operation
+    operation = input("Enter operation: ")
+
+    # Get numbers
+    number1 = float(input("Enter the first number: "))
+    number2 = float(input("Enter the second number: "))
+
+    # Perform calculation
+    if operation == "+":
+        result = number1 + number2
+        print("Addition result:", result)
+    elif operation == "-":
+        result = number1 - number2
+        print("Subtraction result:", result)
+    elif operation == "*":
+        result = number1 * number2
+        print("Multiplication result:", result)
+    elif operation == "/":
+        if number2 != 0:
+            result = number1 / number2
+            print("Division result:", result)
+        else:
+            print("Error: cannot divide by zero!")
+    else:
+        print("Unknown operation. Use +, -, * or /.")
+
+    # Ask if user wants to continue
+    continue_calc = input("Do you want to perform another operation? (yes/no): ").lower()
+    if continue_calc != "yes":
+        print("Thank you for using the calculator!")
+        break
+```
+
+### 🗣️ Explanation:
+
+The program now runs in an infinite `while True` loop.
+After each operation, the user can decide whether to continue.
+If they type anything other than “yes”, the program displays a goodbye message and exits.
+
+### 🧠 Homework
+
+Create a calculator that allows chaining multiple operations on one result.
+
+Example:
+
+```yaml
+Result: 5
+Choose next operation (*, /, +, -): *
+Enter next number: 3
+New result: 15
+```
+
+Use a loop and appropriate logic to make the program flow naturally.
+
+---
+
+## ✅ Summary
+
+In this lesson, you learned how to:
+
+* get user input with `input()`,
+* convert data to numbers using `float()`,
+* use conditional statements `if`, `elif`, `else`,
+* handle logic errors like division by zero,
+* build a loop-based interactive program.
+
+This is one of the most valuable exercises in your learning journey — it shows how to combine Python basics into a real, working program.
+A calculator like this is a classic example of a **CLI application**, where the user interacts with the program through text input and output.
+
+© 2025 PotegaIT – Python Course for Beginners
