@@ -149,6 +149,7 @@ Teraz możesz budować własne biblioteki i wykorzystywać je w wielu projektach
 ---
 
 ## 🇬🇧 English Version
+
 # 🧩 Lesson 23: Creating Your Own Module
 
 ---
