@@ -2,18 +2,22 @@
 # Text calculator - addition and subtraction
 
 print("Witaj w kalkulatorze tekstowym!")  
+print("Welcome to the text calculator!")
+
 print("Wybierz operacje: + (dodawanie), - (odejmowanie)")  
+print("Choose an operation: + (addition), - (subtraction)")
+
 # Powitanie użytkownika i wyświetlenie dostępnych operacji  
 # Greet the user and display available operations
 
-# Pobieramy operacje  
+# Pobieramy operację  
 # Get the chosen operation from the user
-operacja = input("Podaj operacje: ")
+operacja = input("Podaj operację: ")
 
 # Pobieramy liczby  
 # Get numbers from the user
-liczba1 = float(input("Podaj pierwszą liczbe: "))  
-liczba2 = float(input("Podaj druga liczbe: "))
+liczba1 = float(input("Podaj pierwszą liczbę: "))  
+liczba2 = float(input("Podaj drugą liczbę: "))
 
 # Wykonujemy obliczenia na podstawie wybranej operacji  
 # Perform the calculation based on the chosen operation
@@ -28,6 +32,7 @@ elif operacja == "-":
     # Wyświetlamy wynik odejmowania  
     # Display the result of subtraction
 else:  
-    print("Nieznana operacja. Uzyj + lub -.")  
+    print("Nieznana operacja. Użyj + lub -.")  
+    print("Unknown operation. Use + or -.")  
     # Obsługa błędnego symbolu operacji  
     # Handle an invalid operation symbol
