@@ -431,4 +431,4 @@ Now you know that:
 * **Attributes** are the data assigned to an object,
 * **Methods** are the actions an object can perform.
 
-© 2025 PotegaIT – Python Course for Beginners
+© 2025 PotegaIT – Python for Beginners Course
