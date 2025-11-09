@@ -418,4 +418,4 @@ I write programs in Python.
 ✔️ Create private attributes (`__name`),  
 ✔️ Build safe methods for accessing data.
 
-© 2025 PotegaIT – Python for Beginners Course
+© 2025 PotegaIT – Python Course for Beginners
