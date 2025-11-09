@@ -599,3 +599,4 @@ This is already a complete mini-project you can expand further.
 Add new features, experiment with data formats, and enjoy creating your own programming tools!
 
 © 2025 PotegaIT – Python Course for Beginners
+
