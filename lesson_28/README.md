@@ -12,11 +12,11 @@
 > **dziedziczenie** i **enkapsulację**.
 >   
 > Brzmi poważnie ale rozłożymy to na proste kawałki.
->   
-> Po tej lekcji zrozumiesz:
->   
-> * jak klasy mogą korzystać z siebie nawzajem,
-> * jak chronić dane wewnątrz obiektów przed przypadkowym zepsuciem.
+   
+Po tej lekcji zrozumiesz:
+  
+* jak klasy mogą korzystać z siebie nawzajem,
+* jak chronić dane wewnątrz obiektów przed przypadkowym zepsuciem.
 
 ---
 
@@ -224,11 +224,11 @@ Piszę programy w języku Python.
 > **inheritance** and **encapsulation**.  
 >   
 > Sounds complicated? Don’t worry — we’ll break it down into simple pieces.  
->   
-> After this lesson, you’ll understand:
->   
-> * how classes can use each other,
-> * how to protect data inside objects from accidental modification.
+  
+After this lesson, you’ll understand:
+  
+* how classes can use each other,
+* how to protect data inside objects from accidental modification.
 
 ---
 
