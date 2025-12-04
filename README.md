@@ -32,8 +32,10 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 🎥 [Film na YouTube ↗](https://youtu.be/NMsCMMmy8AI) | 📂 [Materiały](lesson_04/)
 
 ### Moduł 2: Podstawy składni
-5. Zmienne i typy danych (string, int, float, bool)  
-6. Operatory arytmetyczne i logiczne  
+5. Zmienne i typy danych (string, int, float, bool)
+🎥 [Zobacz film ↗](https://youtu.be/oPye6bIlFAI) | 📂 [Materiały](lesson_05/)
+6. Operatory arytmetyczne i logiczne
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/mRObIufpwaM) | 📂 [Kod źródłowy](lesson_06/)
 7. Wprowadzenie do f-stringów i input()  
 8. Komentarze i dobre praktyki  
 
@@ -114,7 +116,9 @@ Here you'll find all sample code, exercises, and materials for each lesson from 
 
 ### Module 2: Basics of Syntax
 5. Variables and data types (string, int, float, bool)
-6. Arithmetic and logical operators  
+🎥 [Watch the video ↗](https://youtu.be/oPye6bIlFAI) | 📂 [Materials](lesson_05/)
+6. Arithmetic and logical operators
+🎥 [Watch on YouTube ↗](https://youtu.be/mRObIufpwaM) | 📂 [Source code](lesson_06/)
 7. Introduction to f-strings and input()  
 8. Comments and best practices  
 
