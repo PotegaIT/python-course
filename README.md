@@ -12,7 +12,7 @@ Learn Python from scratch – a free video course on YouTube with complete sourc
 Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ćwiczenia i materiały do każdej lekcji z kursu na YouTube.
 
 🎥 **Oglądaj kurs na YouTube:**  
-👉 [PotegaIT – Python od podstaw](https://youtube.com/@PotegaIT)
+👉 [PotegaIT – Python od podstaw](https://www.youtube.com/playlist?list=PLunxnxm3GTlbs-iq0e5wjpjVdsoVU8wmX)
 
 🌐 **Strona PotegaIT:**  
 👉 [https://potegait.com](https://potegait.com)
@@ -36,22 +36,32 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 🎥 [Zobacz film ↗](https://youtu.be/oPye6bIlFAI) | 📂 [Materiały](lesson_05/)
 6. Operatory arytmetyczne i logiczne   
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/mRObIufpwaM) | 📂 [Kod źródłowy](lesson_06/)
-7. Wprowadzenie do f-stringów i input()  
-8. Komentarze i dobre praktyki  
+7. Wprowadzenie do f-stringów i input()     
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/RVBliF5xNfg) | 📂 [Kod źródłowy](lesson_07/)
+8. Komentarze i dobre praktyki     
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/CDl7ZvCGGHk) | 📂 [Kod źródłowy](lesson_08/)
 
 ### Moduł 3: Struktury danych
-9. Listy i operacje na listach  
-10. Krotki, słowniki i zbiory – kiedy czego używać?  
-11. Iterowanie po strukturach danych – for, while  
+9. Listy i operacje na listach     
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/buMcVFohswI) | 📂 [Kod źródłowy](lesson_09/)
+10. Krotki, słowniki i zbiory – kiedy czego używać?    
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/N1AKLatr_Ec) | 📂 [Kod źródłowy](lesson_10/)
+11. Iterowanie po strukturach danych – for, while    
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/yyLRDWeHjBU) | 📂 [Kod źródłowy](lesson_11/)
 
 ### Moduł 4: Instrukcje warunkowe i pętle
-12. if, elif, else – logika decyzji  
-13. Sterowanie przebiegiem pętli - break, continue  
-14. List comprehensions i praktyczne triki  
+12. if, elif, else – logika decyzji    
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/qRHQ7ZM51co) | 📂 [Kod źródłowy](lesson_12/)
+13. Sterowanie przebiegiem pętli - break, continue     
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/PHVxTXd63A4) | 📂 [Kod źródłowy](lesson_13/)
+14. List comprehensions i praktyczne triki   
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/k6XY5kfyauU) | 📂 [Kod źródłowy](lesson_14/)
 
 ### Moduł 5: Funkcje
-15. Tworzenie i wywoływanie funkcji, argumenty, zwracanie wyników  
-16. Domyślne wartości funkcji  
+15. Tworzenie i wywoływanie funkcji, argumenty, zwracanie wyników     
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/tI79V5BP3_A) | 📂 [Kod źródłowy](lesson_15/)
+16. Domyślne wartości funkcji    
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/NYIs0Cgwipc) | 📂 [Kod źródłowy](lesson_16/)
 17. Debugowanie i czytanie błędów w Pythonie  
 
 ### Moduł 6: Praca z plikami
