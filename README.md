@@ -141,22 +141,33 @@ Here you'll find all sample code, exercises, and materials for each lesson from 
 6. Arithmetic and logical operators   
 🎥 [Watch on YouTube ↗](https://youtu.be/mRObIufpwaM) | 📂 [Source code](lesson_06/)
 7. Introduction to f-strings and input()  
+🎥 [Watch the video ↗](https://youtu.be/RVBliF5xNfg) | 📂 [Materials](lesson_07/)
 8. Comments and best practices  
+🎥 [Watch the video ↗](https://youtu.be/CDl7ZvCGGHk) | 📂 [Materials](lesson_08/)
 
 ### Module 3: Data Structures
 9. Lists and list operations  
+🎥 [Watch on YouTube ↗](https://youtu.be/buMcVFohswI) | 📂 [Source code](lesson_09/)
 10. Tuples, dictionaries, sets – when to use each  
+🎥 [Watch on YouTube ↗](https://youtu.be/N1AKLatr_Ec) | 📂 [Source code](lesson_10/)
 11. Iterating through data structures – for, while  
+🎥 [Watch the video ↗](https://youtu.be/yyLRDWeHjBU) | 📂 [Materials](lesson_11/)
 
 ### Module 4: Conditional Statements and Loops
 12. if, elif, else – decision logic  
+🎥 [Watch the video ↗](https://youtu.be/qRHQ7ZM51co) | 📂 [Materials](lesson_12/)
 13. Loop control – break, continue  
+🎥 [Watch on YouTube ↗](https://youtu.be/PHVxTXd63A4) | 📂 [Source code](lesson_13/)
 14. List comprehensions and practical tricks  
+🎥 [Watch the video ↗](https://youtu.be/k6XY5kfyauU) | 📂 [Materials](lesson_14/)
 
 ### Module 5: Functions
 15. Creating and calling functions, arguments, return values  
+🎥 [Watch the video ↗](https://youtu.be/tI79V5BP3_A) | 📂 [Materials](lesson_15/)
 16. Default function parameters  
+🎥 [Watch on YouTube ↗](https://youtu.be/NYIs0Cgwipc) | 📂 [Source code](lesson_16/)
 17. Debugging and reading Python errors  
+🎥 [Watch on YouTube ↗](https://youtu.be/4KD5ec3zYVI) | 📂 [Source code](lesson_17/)
 
 ### Module 6: Working with Files
 18. Reading and writing text files  
