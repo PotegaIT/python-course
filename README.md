@@ -171,21 +171,31 @@ Here you'll find all sample code, exercises, and materials for each lesson from 
 
 ### Module 6: Working with Files
 18. Reading and writing text files  
+🎥 [Watch the video ↗](https://youtu.be/8Rujq99bFyw) | 📂 [Materials](lesson_18/)
 19. Working with directories and the filesystem (os, pathlib)  
+🎥 [Watch the video ↗](https://youtu.be/2yoWvvpjzQ8) | 📂 [Materials](lesson_19/)
 20. Exception handling – try, except, finally  
+🎥 [Watch on YouTube ↗](https://youtu.be/1EiOKB69BTc) | 📂 [Source code](lesson_20/)
 
 ### Module 7: Modules and Libraries
 21. Built-in modules (math, random, datetime)  
+🎥 [Watch the video ↗](https://youtu.be/dYBlIEw6S-I) | 📂 [Materials](lesson_21/)
 22. Installing libraries with pip  
+🎥 [Watch on YouTube ↗](https://youtu.be/Z2nsjD-2rqk) | 📂 [Source code](lesson_22/)
 23. Creating your own module  
+🎥 [Watch on YouTube ↗](https://youtu.be/767lnqW4n8U) | 📂 [Source code](lesson_23/)
 
 ### Module 8: Practical Project 1
 24. Text-based calculator (CLI)  
+🎥 [Watch the video ↗](https://youtu.be/0f71_w2kqs0) | 📂 [Materials](lesson_24/)
 25. File encryptor  
+🎥 [Watch the video ↗](https://youtu.be/WRhRKQs_c8I) | 📂 [Materials](lesson_25/)
 26. Simple task manager (TODO CLI)  
+🎥 [Watch on YouTube ↗](https://youtu.be/fagUrGuidSc) | 📂 [Source code](lesson_26/)
 
 ### Module 9: Introduction to Object-Oriented Programming
 27. Classes, objects, attributes, methods  
+🎥 [Watch on YouTube ↗](https://youtu.be/lAuNXLOgLrM) | 📂 [Source code](lesson_27/)
 28. Inheritance and encapsulation  
 29. Practical example: order management system  
 
