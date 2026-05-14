@@ -37,7 +37,7 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 6. Operatory arytmetyczne i logiczne   
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/mRObIufpwaM) | 📂 [Kod źródłowy](lesson_06/)
 7. Wprowadzenie do f-stringów i input()     
-🎥 [Obejrzyj na YouTube ↗](https://youtu.be/RVBliF5xNfg) | 📂 [Kod źródłowy](lesson_07/)
+🎥 [Film na YouTube ↗](https://youtu.be/RVBliF5xNfg) | 📂 [Kod źródłowy](lesson_07/)
 8. Komentarze i dobre praktyki     
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/CDl7ZvCGGHk) | 📂 [Kod źródłowy](lesson_08/)
 
@@ -45,7 +45,7 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 9. Listy i operacje na listach     
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/buMcVFohswI) | 📂 [Kod źródłowy](lesson_09/)
 10. Krotki, słowniki i zbiory – kiedy czego używać?    
-🎥 [Obejrzyj na YouTube ↗](https://youtu.be/N1AKLatr_Ec) | 📂 [Kod źródłowy](lesson_10/)
+🎥 [Film na YouTube ↗](https://youtu.be/N1AKLatr_Ec) | 📂 [Kod źródłowy](lesson_10/)
 11. Iterowanie po strukturach danych – for, while    
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/yyLRDWeHjBU) | 📂 [Kod źródłowy](lesson_11/)
 
@@ -53,7 +53,7 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 12. if, elif, else – logika decyzji    
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/qRHQ7ZM51co) | 📂 [Kod źródłowy](lesson_12/)
 13. Sterowanie przebiegiem pętli - break, continue     
-🎥 [Obejrzyj na YouTube ↗](https://youtu.be/PHVxTXd63A4) | 📂 [Kod źródłowy](lesson_13/)
+🎥 [Film na YouTube ↗](https://youtu.be/PHVxTXd63A4) | 📂 [Kod źródłowy](lesson_13/)
 14. List comprehensions i praktyczne triki   
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/k6XY5kfyauU) | 📂 [Kod źródłowy](lesson_14/)
 
@@ -62,16 +62,22 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/tI79V5BP3_A) | 📂 [Kod źródłowy](lesson_15/)
 16. Domyślne wartości funkcji    
 🎥 [Obejrzyj na YouTube ↗](https://youtu.be/NYIs0Cgwipc) | 📂 [Kod źródłowy](lesson_16/)
-17. Debugowanie i czytanie błędów w Pythonie  
+17. Debugowanie i czytanie błędów w Pythonie   
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/4KD5ec3zYVI) | 📂 [Kod źródłowy](lesson_17/)
 
 ### Moduł 6: Praca z plikami
 18. Odczyt i zapis do plików tekstowych  
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/8Rujq99bFyw) | 📂 [Kod źródłowy](lesson_18/)
 19. Praca z katalogami i systemem plików (os, pathlib)  
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/2yoWvvpjzQ8) | 📂 [Kod źródłowy](lesson_19/)
 20. Obsługa wyjątków – try, except, finally  
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/1EiOKB69BTc) | 📂 [Kod źródłowy](lesson_20/)
 
 ### Moduł 7: Moduły i biblioteki
 21. Wbudowane moduły (math, random, datetime)  
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/dYBlIEw6S-I) | 📂 [Kod źródłowy](lesson_21/)
 22. Instalowanie bibliotek przez pip  
+🎥 [Obejrzyj na YouTube ↗](https://youtu.be/Z2nsjD-2rqk) | 📂 [Kod źródłowy](lesson_22/)
 23. Tworzenie własnego modułu  
 
 ### Moduł 8: Projekt praktyczny 1
