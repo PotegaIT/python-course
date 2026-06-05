@@ -93,10 +93,13 @@ Oficjalne repozytorium kursu **PotegaIT**. Znajdziesz tutaj przykładowy kod, ć
 27. Klasy, obiekty, atrybuty, metody  
 🎥 [Zobacz film ↗](https://youtu.be/lAuNXLOgLrM) | 📂 [Materiały](lesson_27/)
 28. Dziedziczenie i enkapsulacja  
+🎥 [Obejrzyj lekcję na YouTube ↗](https://youtu.be/On7y_roTaVM) | 📂 [Materiały](lesson_28/)
 29. Praktyczny przykład: system zamówień  
+🎥 [Film na YouTube ↗](https://youtu.be/tnPUF-b-2s4) | 📂 [Kod źródłowy](lesson_29/)
 
 ### Moduł 10: Projekt praktyczny 2
 30. Mini-aplikacja konsolowa z klasami (np. "Menedżer budżetu domowego")  
+🎥 [Zobacz film ↗](https://youtu.be/rK2olpiK9fM) | 📂 [Materiały](lesson_30/)
 
 ---
 
@@ -195,12 +198,15 @@ Here you'll find all sample code, exercises, and materials for each lesson from 
 
 ### Module 9: Introduction to Object-Oriented Programming
 27. Classes, objects, attributes, methods  
-🎥 [Watch on YouTube ↗](https://youtu.be/lAuNXLOgLrM) | 📂 [Source code](lesson_27/)
-28. Inheritance and encapsulation  
+🎥 [Watch on YouTube ↗](https://youtu.be/lAuNXLOgLrM) | 📂 [Materials](lesson_27/)
+28. Inheritance and encapsulation   
+🎥 [Watch on YouTube ↗](https://youtu.be/On7y_roTaVM) | 📂 [Source code](lesson_28/)
 29. Practical example: order management system  
+🎥 [Watch on YouTube ↗](https://youtu.be/tnPUF-b-2s4) | 📂 [Materials](lesson_29/)
 
 ### Module 10: Practical Project 2
 30. Console mini-application with classes (e.g., "Home Budget Manager")  
+🎥 [Watch on YouTube ↗](https://youtu.be/rK2olpiK9fM) | 📂 [Source code](lesson_30/)
 
 ---
 
